@@ -12,8 +12,7 @@
   * A clean bare minimum working infrastructure is preferred than a full blown solution pieced together with scissors, rope and duct tape. Do not skip security considerations.
 ## When you are finished
   * Submit your solution to a GitLab repository and send us a link.
-  * Provide us a Wireguard config and k8s config to access the cluster and underlying servers.
-  * Make sure your README mentions important details about your project, like IPs, cluster name, etc. 
+  * Make sure your README mentions all important details about your project.
   * Please fork this repo so that you are tested against the test that you started with as this test may change.
 ## Bonus Points
   * If you use ansible vault / HashiCorp Vault for encrypting sensitive information.
